@@ -1,5 +1,5 @@
 # url_helper
-Codeigniter Turkish Url Title Helper
+Codeigniter url_helper Türkçe karakter problemi için güncelleme
 
 
 ```sh
