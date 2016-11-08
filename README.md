@@ -1,6 +1,7 @@
 # url_helper
 Codeigniter url_helper Türkçe karakter problemi için güncelleme
 
+http://fanatikhamsi.github.io/url_helper/
 
 ```sh
 	function url_title($str, $separator = '-', $lowercase = TRUE)
